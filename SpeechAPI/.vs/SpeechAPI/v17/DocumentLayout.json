@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\apbno\\Desktop\\SpeechAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{76E22DFC-B535-4D6E-B770-B6C397A4F91E}|SpeechAPI\\SpeechAPI.csproj|c:\\users\\apbno\\desktop\\speechapi\\speechapi\\speechapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{76E22DFC-B535-4D6E-B770-B6C397A4F91E}|SpeechAPI\\SpeechAPI.csproj|solutionrelative:speechapi\\speechapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76E22DFC-B535-4D6E-B770-B6C397A4F91E}|SpeechAPI\\SpeechAPI.csproj|c:\\users\\apbno\\desktop\\speechapi\\speechapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76E22DFC-B535-4D6E-B770-B6C397A4F91E}|SpeechAPI\\SpeechAPI.csproj|solutionrelative:speechapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76E22DFC-B535-4D6E-B770-B6C397A4F91E}|SpeechAPI\\SpeechAPI.csproj|c:\\users\\apbno\\desktop\\speechapi\\speechapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76E22DFC-B535-4D6E-B770-B6C397A4F91E}|SpeechAPI\\SpeechAPI.csproj|solutionrelative:speechapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76E22DFC-B535-4D6E-B770-B6C397A4F91E}|SpeechAPI\\SpeechAPI.csproj|c:\\users\\apbno\\desktop\\speechapi\\speechapi\\utils\\fileupload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76E22DFC-B535-4D6E-B770-B6C397A4F91E}|SpeechAPI\\SpeechAPI.csproj|solutionrelative:speechapi\\utils\\fileupload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76E22DFC-B535-4D6E-B770-B6C397A4F91E}|SpeechAPI\\SpeechAPI.csproj|c:\\users\\apbno\\desktop\\speechapi\\speechapi\\services\\converttowav.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76E22DFC-B535-4D6E-B770-B6C397A4F91E}|SpeechAPI\\SpeechAPI.csproj|solutionrelative:speechapi\\services\\converttowav.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76E22DFC-B535-4D6E-B770-B6C397A4F91E}|SpeechAPI\\SpeechAPI.csproj|c:\\users\\apbno\\desktop\\speechapi\\speechapi\\repositories\\azurespeechrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76E22DFC-B535-4D6E-B770-B6C397A4F91E}|SpeechAPI\\SpeechAPI.csproj|solutionrelative:speechapi\\repositories\\azurespeechrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76E22DFC-B535-4D6E-B770-B6C397A4F91E}|SpeechAPI\\SpeechAPI.csproj|c:\\users\\apbno\\desktop\\speechapi\\speechapi\\interfaces\\ispeechrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76E22DFC-B535-4D6E-B770-B6C397A4F91E}|SpeechAPI\\SpeechAPI.csproj|solutionrelative:speechapi\\interfaces\\ispeechrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76E22DFC-B535-4D6E-B770-B6C397A4F91E}|SpeechAPI\\SpeechAPI.csproj|c:\\users\\apbno\\desktop\\speechapi\\speechapi\\domain\\textdomain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76E22DFC-B535-4D6E-B770-B6C397A4F91E}|SpeechAPI\\SpeechAPI.csproj|solutionrelative:speechapi\\domain\\textdomain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76E22DFC-B535-4D6E-B770-B6C397A4F91E}|SpeechAPI\\SpeechAPI.csproj|c:\\users\\apbno\\desktop\\speechapi\\speechapi\\controllers\\texttospeechcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76E22DFC-B535-4D6E-B770-B6C397A4F91E}|SpeechAPI\\SpeechAPI.csproj|solutionrelative:speechapi\\controllers\\texttospeechcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76E22DFC-B535-4D6E-B770-B6C397A4F91E}|SpeechAPI\\SpeechAPI.csproj|c:\\users\\apbno\\desktop\\speechapi\\speechapi\\controllers\\speechtotextcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76E22DFC-B535-4D6E-B770-B6C397A4F91E}|SpeechAPI\\SpeechAPI.csproj|solutionrelative:speechapi\\controllers\\speechtotextcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76E22DFC-B535-4D6E-B770-B6C397A4F91E}|SpeechAPI\\SpeechAPI.csproj|c:\\users\\apbno\\desktop\\speechapi\\speechapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{76E22DFC-B535-4D6E-B770-B6C397A4F91E}|SpeechAPI\\SpeechAPI.csproj|solutionrelative:speechapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76E22DFC-B535-4D6E-B770-B6C397A4F91E}|SpeechAPI\\SpeechAPI.csproj|c:\\users\\apbno\\desktop\\speechapi\\speechapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{76E22DFC-B535-4D6E-B770-B6C397A4F91E}|SpeechAPI\\SpeechAPI.csproj|solutionrelative:speechapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76E22DFC-B535-4D6E-B770-B6C397A4F91E}|SpeechAPI\\SpeechAPI.csproj|c:\\users\\apbno\\desktop\\speechapi\\speechapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{76E22DFC-B535-4D6E-B770-B6C397A4F91E}|SpeechAPI\\SpeechAPI.csproj|solutionrelative:speechapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76E22DFC-B535-4D6E-B770-B6C397A4F91E}|SpeechAPI\\SpeechAPI.csproj|c:\\users\\apbno\\desktop\\speechapi\\speechapi\\speechapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{76E22DFC-B535-4D6E-B770-B6C397A4F91E}|SpeechAPI\\SpeechAPI.csproj|solutionrelative:speechapi\\speechapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SpeechAPI.http",
+              "DocumentMoniker": "C:\\Users\\apbno\\Desktop\\SpeechAPI\\SpeechAPI\\SpeechAPI.http",
+              "RelativeDocumentMoniker": "SpeechAPI\\SpeechAPI.http",
+              "ToolTip": "C:\\Users\\apbno\\Desktop\\SpeechAPI\\SpeechAPI\\SpeechAPI.http",
+              "RelativeToolTip": "SpeechAPI\\SpeechAPI.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-04-18T22:30:36.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\apbno\\Desktop\\SpeechAPI\\SpeechAPI\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "SpeechAPI\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\apbno\\Desktop\\SpeechAPI\\SpeechAPI\\WeatherForecast.cs",
+              "RelativeToolTip": "SpeechAPI\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T22:30:35.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FileUpload.cs",
+              "DocumentMoniker": "C:\\Users\\apbno\\Desktop\\SpeechAPI\\SpeechAPI\\Utils\\FileUpload.cs",
+              "RelativeDocumentMoniker": "SpeechAPI\\Utils\\FileUpload.cs",
+              "ToolTip": "C:\\Users\\apbno\\Desktop\\SpeechAPI\\SpeechAPI\\Utils\\FileUpload.cs",
+              "RelativeToolTip": "SpeechAPI\\Utils\\FileUpload.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T21:29:22.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TextDomain.cs",
+              "DocumentMoniker": "C:\\Users\\apbno\\Desktop\\SpeechAPI\\SpeechAPI\\Domain\\TextDomain.cs",
+              "RelativeDocumentMoniker": "SpeechAPI\\Domain\\TextDomain.cs",
+              "ToolTip": "C:\\Users\\apbno\\Desktop\\SpeechAPI\\SpeechAPI\\Domain\\TextDomain.cs",
+              "RelativeToolTip": "SpeechAPI\\Domain\\TextDomain.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T21:24:17.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\apbno\\Desktop\\SpeechAPI\\SpeechAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "SpeechAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\apbno\\Desktop\\SpeechAPI\\SpeechAPI\\appsettings.json",
+              "RelativeToolTip": "SpeechAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-17T23:15:28.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AzureSpeechRepository.cs",
+              "DocumentMoniker": "C:\\Users\\apbno\\Desktop\\SpeechAPI\\SpeechAPI\\Repositories\\AzureSpeechRepository.cs",
+              "RelativeDocumentMoniker": "SpeechAPI\\Repositories\\AzureSpeechRepository.cs",
+              "ToolTip": "C:\\Users\\apbno\\Desktop\\SpeechAPI\\SpeechAPI\\Repositories\\AzureSpeechRepository.cs",
+              "RelativeToolTip": "SpeechAPI\\Repositories\\AzureSpeechRepository.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAowDwAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T23:13:37.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ISpeechRepository.cs",
+              "DocumentMoniker": "C:\\Users\\apbno\\Desktop\\SpeechAPI\\SpeechAPI\\Interfaces\\ISpeechRepository.cs",
+              "RelativeDocumentMoniker": "SpeechAPI\\Interfaces\\ISpeechRepository.cs",
+              "ToolTip": "C:\\Users\\apbno\\Desktop\\SpeechAPI\\SpeechAPI\\Interfaces\\ISpeechRepository.cs",
+              "RelativeToolTip": "SpeechAPI\\Interfaces\\ISpeechRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T23:14:00.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SpeechToTextController.cs",
+              "DocumentMoniker": "C:\\Users\\apbno\\Desktop\\SpeechAPI\\SpeechAPI\\Controllers\\SpeechToTextController.cs",
+              "RelativeDocumentMoniker": "SpeechAPI\\Controllers\\SpeechToTextController.cs",
+              "ToolTip": "C:\\Users\\apbno\\Desktop\\SpeechAPI\\SpeechAPI\\Controllers\\SpeechToTextController.cs",
+              "RelativeToolTip": "SpeechAPI\\Controllers\\SpeechToTextController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T23:14:31.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConvertToWav.cs",
+              "DocumentMoniker": "C:\\Users\\apbno\\Desktop\\SpeechAPI\\SpeechAPI\\Services\\ConvertToWav.cs",
+              "RelativeDocumentMoniker": "SpeechAPI\\Services\\ConvertToWav.cs",
+              "ToolTip": "C:\\Users\\apbno\\Desktop\\SpeechAPI\\SpeechAPI\\Services\\ConvertToWav.cs",
+              "RelativeToolTip": "SpeechAPI\\Services\\ConvertToWav.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T21:40:55.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TextToSpeechController.cs",
+              "DocumentMoniker": "C:\\Users\\apbno\\Desktop\\SpeechAPI\\SpeechAPI\\Controllers\\TextToSpeechController.cs",
+              "RelativeDocumentMoniker": "SpeechAPI\\Controllers\\TextToSpeechController.cs",
+              "ToolTip": "C:\\Users\\apbno\\Desktop\\SpeechAPI\\SpeechAPI\\Controllers\\TextToSpeechController.cs",
+              "RelativeToolTip": "SpeechAPI\\Controllers\\TextToSpeechController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowCcAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T23:14:30.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\apbno\\Desktop\\SpeechAPI\\SpeechAPI\\Program.cs",
+              "RelativeDocumentMoniker": "SpeechAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\apbno\\Desktop\\SpeechAPI\\SpeechAPI\\Program.cs",
+              "RelativeToolTip": "SpeechAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T23:14:57.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SpeechAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\apbno\\Desktop\\SpeechAPI\\SpeechAPI\\SpeechAPI.csproj",
+              "RelativeDocumentMoniker": "SpeechAPI\\SpeechAPI.csproj",
+              "ToolTip": "C:\\Users\\apbno\\Desktop\\SpeechAPI\\SpeechAPI\\SpeechAPI.csproj",
+              "RelativeToolTip": "SpeechAPI\\SpeechAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-18T21:28:35.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\apbno\\Desktop\\SpeechAPI\\SpeechAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "SpeechAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\apbno\\Desktop\\SpeechAPI\\SpeechAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "SpeechAPI\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-18T22:11:21.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\apbno\\Desktop\\SpeechAPI\\SpeechAPI\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "SpeechAPI\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\apbno\\Desktop\\SpeechAPI\\SpeechAPI\\appsettings.Development.json",
+              "RelativeToolTip": "SpeechAPI\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-18T22:10:26.888Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

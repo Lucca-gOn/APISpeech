@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "UjOR01cU7rg0HgQyIOl4hKqvvxynZdnY23hxekuANQk=",
+  "Source": "SpeechAPI",
+  "BasePath": "_content/SpeechAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "SpeechAPI\\wwwroot",
+      "Source": "SpeechAPI",
+      "ContentRoot": "C:\\Users\\apbno\\Desktop\\SpeechAPI\\SpeechAPI\\wwwroot\\",
+      "BasePath": "_content/SpeechAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\apbno\\Desktop\\SpeechAPI\\SpeechAPI\\wwwroot\\audios\\6de0096e-b3cf-4315-9660-7855c32ef9e5.wav",
+      "SourceId": "SpeechAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\apbno\\Desktop\\SpeechAPI\\SpeechAPI\\wwwroot\\",
+      "BasePath": "_content/SpeechAPI",
+      "RelativePath": "audios/6de0096e-b3cf-4315-9660-7855c32ef9e5.wav",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\audios\\6de0096e-b3cf-4315-9660-7855c32ef9e5.wav"
+    },
+    {
+      "Identity": "C:\\Users\\apbno\\Desktop\\SpeechAPI\\SpeechAPI\\wwwroot\\audios\\a451c7d7-b356-441c-b554-da6305b82d21.wav",
+      "SourceId": "SpeechAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\apbno\\Desktop\\SpeechAPI\\SpeechAPI\\wwwroot\\",
+      "BasePath": "_content/SpeechAPI",
+      "RelativePath": "audios/a451c7d7-b356-441c-b554-da6305b82d21.wav",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\audios\\a451c7d7-b356-441c-b554-da6305b82d21.wav"
+    }
+  ]
+}

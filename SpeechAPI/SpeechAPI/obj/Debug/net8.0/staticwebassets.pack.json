@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\apbno\\Desktop\\SpeechAPI\\SpeechAPI\\wwwroot\\audios\\6de0096e-b3cf-4315-9660-7855c32ef9e5.wav",
+      "PackagePath": "staticwebassets\\audios\\6de0096e-b3cf-4315-9660-7855c32ef9e5.wav"
+    },
+    {
+      "Id": "C:\\Users\\apbno\\Desktop\\SpeechAPI\\SpeechAPI\\wwwroot\\audios\\a451c7d7-b356-441c-b554-da6305b82d21.wav",
+      "PackagePath": "staticwebassets\\audios\\a451c7d7-b356-441c-b554-da6305b82d21.wav"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SpeechAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.SpeechAPI.props",
+      "PackagePath": "build\\SpeechAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.SpeechAPI.props",
+      "PackagePath": "buildMultiTargeting\\SpeechAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.SpeechAPI.props",
+      "PackagePath": "buildTransitive\\SpeechAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
